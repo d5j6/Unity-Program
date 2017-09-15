@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="VREDU_Test3" size="960.000000 1280.000000" />
+    <ImageTarget name="VREDU_Test2" size="960.000000 1280.000000" />
+    <ImageTarget name="VREDU_Test1" size="960.000000 1280.000000" />
+    <ImageTarget name="logo_genius" size="960.000000 1280.000000" />
+    <ImageTarget name="043" size="960.000000 1280.000000" />
+    <ImageTarget name="level8" size="1280.000000 1706.666626" />
+  </Tracking>
+</QCARConfig>

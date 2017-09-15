@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 3cad2038d26112749b527e7e42542ae2
+timeCreated: 1498468267
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _MoonTex: {fileID: 2800000, guid: 1e79df652d1f739488a65ad469083f8f, type: 3}
+  - _CutMask: {fileID: 2800000, guid: 4d1dec98f1bcf5a408b89c3002360497, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

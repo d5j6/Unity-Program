@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 6a3d82de1f0e28c49bc421ee96f96095
+timeCreated: 1492675384
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B_Body_Root
+    100004: Body_00
+    100006: Body_01
+    100008: Body_03
+    100010: Glass_00
+    100012: Grp_Body
+    100014: Grp_Head
+    100016: Hair
+    100018: Hair_00
+    100020: Hair_C_00
+    100022: Hair_F_00_
+    100024: Hair_F_00_1
+    100026: Hair_F_00_2
+    100028: Hair_F_00_3
+    100030: Hair_F_01_
+    100032: Hair_F_01_1
+    100034: Hair_F_01_2
+    100036: Hair_F_01_3
+    100038: Hair_F_01_4
+    100040: Hair_F_02_
+    100042: Hair_F_02_1
+    100044: Hair_F_02_2
+    100046: Hair_F_02_3
+    100048: Hair_F_02_4
+    100050: Hair_F_02_5
+    100052: Hair_F_02_6
+    100054: Hair_F_03_
+    100056: Hair_F_03_1
+    100058: Hair_F_03_2
+    100060: Hair_F_03_3
+    100062: Hair_F_04_
+    100064: Hair_F_04_1
+    100066: Hair_F_04_2
+    100068: Hair_Root
+    100070: Head_00
+    100072: Head_base
+    100074: Hips_00
+    100076: L_Breast_00
+    100078: L_Breast_01
+    100080: L_Elbow_00
+    100082: L_Foot_00
+    100084: L_Hip_00
+    100086: L_Index_00
+    100088: L_Index_01
+    100090: L_Index_02
+    100092: L_Knee_00
+    100094: L_Middle_00
+    100096: L_Middle_01
+    100098: L_Middle_02
+    100100: L_Pinky_00
+    100102: L_Pinky_01
+    100104: L_Pinky_02
+    100106: L_RightArm_00
+    100108: L_Ring_00
+    100110: L_Ring_01
+    100112: L_Ring_02
+    100114: L_Shoulder_00
+    100116: L_Thumb_00
+    100118: L_Thumb_01
+    100120: L_Thumb_02
+    100122: L_ToeBase_00
+    100124: L_ToeEnd_00
+    100126: L_Wrist_00
+    100128: left
+    100130: left1
+    100132: Neck_00
+    100134: R_Breast_00
+    100136: R_Breast_01
+    100138: R_Elbow_00
+    100140: R_Foot_00
+    100142: R_Hip_00
+    100144: R_Index_00
+    100146: R_Index_01
+    100148: R_Index_02
+    100150: R_Knee_00
+    100152: R_Middle_00
+    100154: R_Middle_01
+    100156: R_Middle_02
+    100158: R_Pinky_00
+    100160: R_Pinky_01
+    100162: R_Pinky_02
+    100164: R_RightArm_00
+    100166: R_Ring_00
+    100168: R_Ring_01
+    100170: R_Ring_02
+    100172: R_Shoulder_00
+    100174: R_Thumb_00
+    100176: R_Thumb_01
+    100178: R_Thumb_02
+    100180: R_ToeBase_00
+    100182: R_ToeEnd_00
+    100184: R_Wrist_00
+    100186: Spine_00
+    100188: Spine_01
+    400000: //RootNode
+    400002: B_Body_Root
+    400004: Body_00
+    400006: Body_01
+    400008: Body_03
+    400010: Glass_00
+    400012: Grp_Body
+    400014: Grp_Head
+    400016: Hair
+    400018: Hair_00
+    400020: Hair_C_00
+    400022: Hair_F_00_
+    400024: Hair_F_00_1
+    400026: Hair_F_00_2
+    400028: Hair_F_00_3
+    400030: Hair_F_01_
+    400032: Hair_F_01_1
+    400034: Hair_F_01_2
+    400036: Hair_F_01_3
+    400038: Hair_F_01_4
+    400040: Hair_F_02_
+    400042: Hair_F_02_1
+    400044: Hair_F_02_2
+    400046: Hair_F_02_3
+    400048: Hair_F_02_4
+    400050: Hair_F_02_5
+    400052: Hair_F_02_6
+    400054: Hair_F_03_
+    400056: Hair_F_03_1
+    400058: Hair_F_03_2
+    400060: Hair_F_03_3
+    400062: Hair_F_04_
+    400064: Hair_F_04_1
+    400066: Hair_F_04_2
+    400068: Hair_Root
+    400070: Head_00
+    400072: Head_base
+    400074: Hips_00
+    400076: L_Breast_00
+    400078: L_Breast_01
+    400080: L_Elbow_00
+    400082: L_Foot_00
+    400084: L_Hip_00
+    400086: L_Index_00
+    400088: L_Index_01
+    400090: L_Index_02
+    400092: L_Knee_00
+    400094: L_Middle_00
+    400096: L_Middle_01
+    400098: L_Middle_02
+    400100: L_Pinky_00
+    400102: L_Pinky_01
+    400104: L_Pinky_02
+    400106: L_RightArm_00
+    400108: L_Ring_00
+    400110: L_Ring_01
+    400112: L_Ring_02
+    400114: L_Shoulder_00
+    400116: L_Thumb_00
+    400118: L_Thumb_01
+    400120: L_Thumb_02
+    400122: L_ToeBase_00
+    400124: L_ToeEnd_00
+    400126: L_Wrist_00
+    400128: left
+    400130: left1
+    400132: Neck_00
+    400134: R_Breast_00
+    400136: R_Breast_01
+    400138: R_Elbow_00
+    400140: R_Foot_00
+    400142: R_Hip_00
+    400144: R_Index_00
+    400146: R_Index_01
+    400148: R_Index_02
+    400150: R_Knee_00
+    400152: R_Middle_00
+    400154: R_Middle_01
+    400156: R_Middle_02
+    400158: R_Pinky_00
+    400160: R_Pinky_01
+    400162: R_Pinky_02
+    400164: R_RightArm_00
+    400166: R_Ring_00
+    400168: R_Ring_01
+    400170: R_Ring_02
+    400172: R_Shoulder_00
+    400174: R_Thumb_00
+    400176: R_Thumb_01
+    400178: R_Thumb_02
+    400180: R_ToeBase_00
+    400182: R_ToeEnd_00
+    400184: R_Wrist_00
+    400186: Spine_00
+    400188: Spine_01
+    4300000: Glass_00
+    4300002: Body_03
+    4300004: Body_00
+    4300006: Body_01
+    4300008: Hair_00
+    4300010: Head_base
+    7400000: Ani_Yue_Test
+    9500000: //RootNode
+    13700000: Body_00
+    13700002: Body_01
+    13700004: Body_03
+    13700006: Glass_00
+    13700008: Hair_00
+    13700010: Head_base
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ani_Yue_Test
+      takeName: Take 001
+      firstFrame: 550
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: B_Body_Root
+        weight: 1
+      - path: B_Body_Root/Hips_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/L_Hip_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/L_Hip_00/L_Knee_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/L_Hip_00/L_Knee_00/L_Foot_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/L_Hip_00/L_Knee_00/L_Foot_00/L_ToeBase_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/L_Hip_00/L_Knee_00/L_Foot_00/L_ToeBase_00/L_ToeEnd_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/R_Hip_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/R_Hip_00/R_Knee_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/R_Hip_00/R_Knee_00/R_Foot_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/R_Hip_00/R_Knee_00/R_Foot_00/R_ToeBase_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/R_Hip_00/R_Knee_00/R_Foot_00/R_ToeBase_00/R_ToeEnd_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Breast_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Breast_00/L_Breast_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Index_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Index_00/L_Index_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Index_00/L_Index_01/L_Index_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Middle_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Middle_00/L_Middle_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Middle_00/L_Middle_01/L_Middle_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Pinky_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Pinky_00/L_Pinky_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Pinky_00/L_Pinky_01/L_Pinky_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Ring_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Ring_00/L_Ring_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Ring_00/L_Ring_01/L_Ring_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Thumb_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Thumb_00/L_Thumb_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/L_Shoulder_00/L_RightArm_00/L_Elbow_00/L_Wrist_00/L_Thumb_00/L_Thumb_01/L_Thumb_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_00_
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_00_/Hair_F_00_1
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_00_/Hair_F_00_1/Hair_F_00_2
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_00_/Hair_F_00_1/Hair_F_00_2/Hair_F_00_3
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_01_
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_01_/Hair_F_01_1
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_01_/Hair_F_01_1/Hair_F_01_2
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_01_/Hair_F_01_1/Hair_F_01_2/Hair_F_01_3
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_01_/Hair_F_01_1/Hair_F_01_2/Hair_F_01_3/Hair_F_01_4
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_/Hair_F_02_1
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_/Hair_F_02_1/Hair_F_02_2
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_/Hair_F_02_1/Hair_F_02_2/Hair_F_02_3
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_/Hair_F_02_1/Hair_F_02_2/Hair_F_02_3/Hair_F_02_4
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_/Hair_F_02_1/Hair_F_02_2/Hair_F_02_3/Hair_F_02_4/Hair_F_02_5
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_02_/Hair_F_02_1/Hair_F_02_2/Hair_F_02_3/Hair_F_02_4/Hair_F_02_5/Hair_F_02_6
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_03_
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_03_/Hair_F_03_1
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_03_/Hair_F_03_1/Hair_F_03_2
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_03_/Hair_F_03_1/Hair_F_03_2/Hair_F_03_3
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_04_
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_04_/Hair_F_04_1
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/Neck_00/Head_00/Hair_Root/Hair_C_00/Hair_F_04_/Hair_F_04_1/Hair_F_04_2
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Breast_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Breast_00/R_Breast_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Index_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Index_00/R_Index_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Index_00/R_Index_01/R_Index_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Middle_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Middle_00/R_Middle_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Middle_00/R_Middle_01/R_Middle_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Pinky_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Pinky_00/R_Pinky_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Pinky_00/R_Pinky_01/R_Pinky_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Ring_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Ring_00/R_Ring_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Ring_00/R_Ring_01/R_Ring_02
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Thumb_00
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Thumb_00/R_Thumb_01
+        weight: 1
+      - path: B_Body_Root/Hips_00/Spine_00/Spine_01/R_Shoulder_00/R_RightArm_00/R_Elbow_00/R_Wrist_00/R_Thumb_00/R_Thumb_01/R_Thumb_02
+        weight: 1
+      - path: Grp_Body
+        weight: 1
+      - path: Grp_Body/Body_00
+        weight: 1
+      - path: Grp_Body/Body_01
+        weight: 1
+      - path: Grp_Body/Body_03
+        weight: 1
+      - path: Grp_Body/Glass_00
+        weight: 1
+      - path: Grp_Head
+        weight: 1
+      - path: Grp_Head/Head_base
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hair/Hair_00
+        weight: 1
+      - path: left
+        weight: 1
+      - path: left1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 7.3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

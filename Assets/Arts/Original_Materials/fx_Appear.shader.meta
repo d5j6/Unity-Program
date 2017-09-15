@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 95a4b20b783f0904997e954582f63160
+timeCreated: 1498549971
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Noise: {fileID: 2800000, guid: bb7dc8f428510f34d98ae58c51445a70, type: 3}
+  - _RampMap: {fileID: 2800000, guid: 3f77ff2d3ad31c242b18de5cdf3555b0, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
